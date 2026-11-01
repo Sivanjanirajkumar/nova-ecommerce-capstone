@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f3eee5"/>
+  <rect x="175" y="65" width="50" height="25" rx="5" fill="#8b9a83"/>
+  <rect x="155" y="85" width="90" height="165" rx="25" fill="#9eb5a0"/>
+  <rect x="170" y="115" width="60" height="75" rx="8" fill="#dce6d9"/>
+  <text x="200" y="158" text-anchor="middle" font-size="13" fill="#526b56">NOVA</text>
+</svg>
