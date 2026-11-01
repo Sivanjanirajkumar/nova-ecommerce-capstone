@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f3eee5"/>
+  <path d="M135 110 H265 L280 255 H120 Z" fill="#c99b70"/>
+  <path d="M155 115 Q155 35 200 35 Q245 35 245 115" fill="none" stroke="#8c6346" stroke-width="12"/>
+  <path d="M155 140 H245" stroke="#b17e56" stroke-width="3"/>
+  <text x="200" y="195" text-anchor="middle" font-size="20" fill="#6b4935">NOVA</text>
+</svg>
